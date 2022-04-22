@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/appkit-by-example_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pinlock[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/pinlock[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pinlock/PinLockCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/pinlock/PinLockCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pinlock/PinLockCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/pinlock/PinLockCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pinlock/UnlockCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/pinlock/UnlockCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pinlock/UnlockCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/pinlock/UnlockCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	freezecoin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/freezecoin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	freezecoin/SpendFrozenCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/freezecoin/SpendFrozenCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	freezecoin/SpendFrozenCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/freezecoin/SpendFrozenCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	freezecoin/FreezeCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/freezecoin/FreezeCoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	freezecoin/FreezeCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/freezecoin/FreezeCoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrelay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrelay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrelay/BTCRelayVerify.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrelay/BTCRelayVerify.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrelay/BTCRelayVerify$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrelay/BTCRelayVerify$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrealy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrealy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrealy/BTCRelay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrealy/BTCRelay$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	btcrealy/BTCRelay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/target/scala-2.12/classes/btcrealy/BTCRelay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

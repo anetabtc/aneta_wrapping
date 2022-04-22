@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/samsa/Documents/GitHub/aneta_wrapping/resources/appkit-by-example/src/main/scala/freezecoin/FreezeCoin.scala:8:8: FreezeCoin is already defined as object FreezeCoin[0m
+[0m[[0m[31merror[0m] [0m[0mobject FreezeCoin {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
