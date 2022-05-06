@@ -1,4 +1,9 @@
-"""Main entry point for running wrapping."""
+"""Main entry point for running wrapping.
+Example Command:
+
+python src/main.py --option burn --amount=0.0001 --btc_wallet_id="Wallet1-testnet" --network="testnet"
+
+"""
 
 import argparse
 
