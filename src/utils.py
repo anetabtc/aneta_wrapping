@@ -21,7 +21,9 @@ def runMintingSmartContract(amount, btc_vault_address, btc_wallet_address,
                             network, erg_vault_address,
                             erg_wallet_address) -> dict:
     print("MAGIC HAPPENS HERE")
-    # Integrate the sbt stuff here
+    # TODO (margueriteblair) Integrate the sbt stuff here, and translate this scastie smart contract to appkit: https://scastie.scala-lang.org/VVBT54WmQaey2Xe50OjjZg
+    
+    
     return {}
 
 def runRedeemingSmartContract(amount, btc_vault_address, btc_wallet_address,
